@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul  4 18:05:05 2019
-
-@author: Ravi
-"""
-
 
 # import the required packages
 
